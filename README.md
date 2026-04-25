@@ -11,12 +11,19 @@ The dashboard focuses on improving loan portfolio health by tracking performance
 📌 Key Features & KPIs
 
 💰 Total Loan Applications
+
 💵 Total Funded Amount & Amount Received
+
 📉 Default Rate (Bad Loans %)
+
 📈 Good Loan vs Bad Loan Analysis
+
 👥 Borrower Segmentation (Income, Employment Length)
+
 📊 Loan Status (Fully Paid, Current, Charged Off)
+
 📅 Monthly & Yearly Loan Trends
+
 🌍 Regional Loan Distribution
 
 ➡️ These KPIs help monitor lending performance, risk levels, and profitability.
