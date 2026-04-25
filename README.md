@@ -83,8 +83,11 @@ Loan purpose affects default probability
 🔮 Future Enhancements
 
 🔹 Add real-time data integration (SQL / API)
+
 🔹 Build loan default prediction model (ML)
+
 🔹 Deploy dashboard to Power BI Service
+
 🔹 Add drill-through and advanced filters
 
 ✅ Conclusion
